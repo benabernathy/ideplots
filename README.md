@@ -10,10 +10,10 @@ The fastest way to get up and running is to install IdePlots by using the `pip` 
 
 ```bash
 # to install the latest release from PyPi
-pip install IdePlots
+pip install ideplots
 
 # to install the latest commit from GitHub
-pip install git+https://github.com/benabernathy/IdePlots.git
+pip install git+https://github.com/benabernathy/ideplots.git
 
 ```
 
