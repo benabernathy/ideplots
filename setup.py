@@ -15,7 +15,7 @@ with open(os.path.join(root, 'README.md'), 'r', encoding='utf-8') as f:
 
 setup(
     name='ideplots',
-    version='0.1.0',
+    version='0.1.1',
     author="Ben Abernathy",
     author_email="ben.abernathy@gmail.com",
     maintainer="Ben Abernathy",
