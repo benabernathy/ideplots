@@ -6,7 +6,7 @@
 
 ## Getting Started
 
-The fastest way to get up and running is to install IdePlots by using the `pip` command.
+The fastest way to get up and running is to install ideplots by using the `pip` command.
 
 ```bash
 # to install the latest release from PyPi
